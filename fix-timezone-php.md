@@ -10,9 +10,9 @@ In my case I ended up with : Configuration File (php.ini) Path => /etc
 
 Then use **cd ..** all the way back and cd into /etc, on a mac, just use **cd** to go to root directory. Do **ls**. In my case php.ini didn't show up, only a **php.ini.default**.
 
-If you already have a php.ini, edit that and skip the next highlighted step.
+If you already have a php.ini, edit that and skip the next stroked step.git 
 
-==Copy the php.ini.default file named as php.ini:==
+~~Copy the php.ini.default file named as php.ini:~~
 
 	sudo cp php.ini.default php.ini
 
