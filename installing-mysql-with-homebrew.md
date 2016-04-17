@@ -20,3 +20,7 @@ Make sure homebrew is installed, then run these commands
 ### Secure your MySQL installation.
 
 The main purpose of doing this is to ensure that the configuration of the local environment is set up as close as possible to the production environment.
+
+	mysql_secure_installation
+	
+and follow the instructions. 		
