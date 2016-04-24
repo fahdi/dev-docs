@@ -1,2 +1,5 @@
 # Delete all images
-docker rmi $(docker images -q)
+
+In the bash, run the following command
+
+  docker rmi $(docker images -q)
