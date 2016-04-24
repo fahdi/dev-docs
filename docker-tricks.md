@@ -2,4 +2,4 @@
 
 In the bash, run the following command
 
-  docker rmi $(docker images -q)
+    docker rmi $(docker images -q)
